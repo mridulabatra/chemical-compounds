@@ -1,6 +1,7 @@
 # chemical-compounds
 
 #Aim 
+
 server-side code requirements for chemical compounds web application.
 
 #Overview
@@ -12,6 +13,7 @@ The application allows users to view a list of chemical compounds, see their det
 Prerequisites
 
 Install MySQL
+
 Install DataGrip
 
 Connect MySQL in DataGrip-
@@ -38,13 +40,14 @@ Import CSV:
 Using DataGrip, import the provided CSV data into the Compounds table.
 
 Clone the repository to your local machine.
+
 Open the repository in Visual Studio Code.
 
 Update DB Credentials in sequelize.js
 
 Initialize npm:
 
-npm init
+npm install
 
 Run the Application:
 
